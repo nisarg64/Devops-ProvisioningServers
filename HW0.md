@@ -58,3 +58,13 @@ git revert HEAD
 
 ![image](https://dl.dropboxusercontent.com/s/x36xnkibp5eirnc/git_exercise.png?dl=0)
 
+
+## Git Hooks
+#### post-commit Script:
+```
+#!/bin/sh
+
+xdg-open https://github.ncsu.edu/ndgandh2/git-hooks
+```
+
+#### Screencast Link:
