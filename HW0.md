@@ -68,4 +68,4 @@ xdg-open https://github.ncsu.edu/ndgandh2/git-hooks
 ```
 
 #### Screencast Link:
-![image](https://dl.dropboxusercontent.com/s/8brahms8epthwnt/Kazam_screencast_00000.mp4?dl=0)
+![ScreenShot](https://dl.dropboxusercontent.com/s/8brahms8epthwnt/Kazam_screencast_00000.mp4?dl=0)
