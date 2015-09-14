@@ -58,3 +58,14 @@ git revert HEAD
 
 ![image](https://dl.dropboxusercontent.com/s/x36xnkibp5eirnc/git_exercise.png?dl=0)
 
+
+## Git Hooks
+#### post-commit Script:
+```
+#!/bin/sh
+
+xdg-open https://github.ncsu.edu/ndgandh2/git-hooks
+```
+
+#### Screencast Link:
+[![ScreenShot](https://dl.dropboxusercontent.com/s/m6u3czzrcn1m2d6/Screenshot%20from%202015-08-31%2002%3A24%3A02.png?dl=0)](https://dl.dropboxusercontent.com/s/8brahms8epthwnt/Kazam_screencast_00000.mp4?dl=0)
