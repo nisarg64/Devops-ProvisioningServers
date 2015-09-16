@@ -3,5 +3,5 @@
 ## Steps:
 
 ## Screencast:
-[![ScreenShot](https://www.youtube.com/watch?v=jog3wTpGWqs)](https://www.youtube.com/watch?v=jog3wTpGWqs)
+![alt tag](https://www.youtube.com/watch?v=jog3wTpGWqs)
 
