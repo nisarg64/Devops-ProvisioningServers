@@ -3,5 +3,5 @@
 ## Steps:
 
 ## Screencast:
-![ScreenShot](https://www.youtube.com/watch?v=jog3wTpGWqs)
+[![ScreenShot](https://www.youtube.com/watch?v=jog3wTpGWqs)](https://www.youtube.com/watch?v=jog3wTpGWqs)
 
