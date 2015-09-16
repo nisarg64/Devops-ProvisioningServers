@@ -74,6 +74,7 @@ client.createDroplet(name, region, image, function(err, resp, body)
 				if (data.droplet)
 				{ 	
 					var fs = require('fs');
+					console.log("Ubuntu Server droplet with IP Address:"+data.droplet.networks.v4[0]['ip_address']+" provisioned on Digital Ocean")
 					var data = "[servers]\nnode0 ansible_ssh_host="+data.droplet.networks.v4[0]['ip_address']+" ansible_ssh_user=root ansible_ssh_private_key_file=./id_rsa\n";
 
 					fs.writeFile("inventory", data, function (err) {
