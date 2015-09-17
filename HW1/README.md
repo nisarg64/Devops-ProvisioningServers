@@ -35,7 +35,7 @@ git checkout tags/v1.9.2-1
 git submodule update --recursive
 source ./hacking/env-setup
 ```
-#### Execute the script
+#### Running the script
 * Run `HW.sh` to install and start `nginx` on both the provisioned servers.
 
 
